@@ -2,6 +2,10 @@
 
 HotActions is a lightweight macOS menu-bar launcher for quickly finding applications and running custom actions. Open it with a global keyboard shortcut, search with typo-tolerant fuzzy matching, and press Return to launch the selected result.
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/XJeWfYdnPak/hqdefault.jpg)](https://www.youtube.com/watch?v=XJeWfYdnPak)
+
 ## Features
 
 - Search and open installed macOS applications
